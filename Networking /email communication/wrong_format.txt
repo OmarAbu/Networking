@@ -1,5 +1,0 @@
-From: "Hamed" <test@anyemail>
-To: "hamed" <compsci520test.fiu.edu>
-Subject: testing
-
-Compsci520 is a cool course!!

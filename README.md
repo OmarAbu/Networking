@@ -10,4 +10,4 @@ used sockets to handle good requests(200) and redirects.
 used python sockets to have a Server side send recieve cards from multiple clients. All insertion of cards and creation of clients happen in terminal. Multiple clients send over decks of cards (numbers 1-10 along with A, J, K, and Q) Server handles and counts who won and who has lost when each client is given a random deck of cards.
 
 # Requires
-python
+run code in terminal for networking card game
